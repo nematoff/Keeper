@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','1078473840:AAE5pxLHRmB-evouucp6k7NreIamlMZi2qY');
+define('API_KEY','1170703049:AAG_7woBwys8vUFXp2LSULN0ABqxqzhdA3Y');
 $admin = "858917637";
 $kanalimz ="@idenqiwi"; //kanal useri
    function del($nomi){
