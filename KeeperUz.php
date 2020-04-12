@@ -1,6 +1,6 @@
 <?php
 $admin = '858917637';
-$token = '1090137139:AAEGGXG6C0Z07G4OLOmTAcENa8js9eY4GHw';
+$token = '1170703049:AAG_7woBwys8vUFXp2LSULN0ABqxqzhdA3Y';
 
 function bot($method,$datas=[]){
 global $token;
